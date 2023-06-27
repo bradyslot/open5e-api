@@ -12,3 +12,4 @@ server/whoosh_index/
 *.local
 
 .vscode/
+scripts/__pycache__/
